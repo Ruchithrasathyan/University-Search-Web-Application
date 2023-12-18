@@ -297,12 +297,6 @@ GET     | /comment/{commentId}  			| Find comment by id
 
 ```
 POST    | /comment/add          			| Add new comment by passing valid comment json payload inside body
-[PPT_FINAL_WEBDESIGN.pptx](https://github.com/neu-mis-info6150-fall-2022/final-project-electrons/files/10187572/PPT_FINAL_WEBDESIGN.pptx)
-[PPT_FINAL_WEBDESIGN.pptx](https://github.com/neu-mis-info6150-fall-2022/final-project-electrons/files/10187572/PPT_FINAL_WEBDESIGN.pptx)
-[PPT_FINAL_WEBDESIGN.pptx](https://github.com/neu-mis-info6150-fall-2022/final-project-electrons/files/10187574/PPT_FINAL_WEBDESIGN.pptx)
-[PPT_FINAL_WEBDESIGN.pptx](https://github.com/neu-mis-info6150-fall-2022/final-project-electrons/files/10187574/PPT_FINAL_WEBDESIGN.pptx)
-[PPT_FINAL_WEBDESIGN.pptx](https://github.com/neu-mis-info6150-fall-2022/final-project-electrons/files/10187575/PPT_FINAL_WEBDESIGN.pptx)
-[PPT_FINAL_WEBDESIGN.pptx](https://github.com/neu-mis-info6150-fall-2022/final-project-electrons/files/10187575/PPT_FINAL_WEBDESIGN.pptx)
 ```
 
 ```
@@ -312,8 +306,5 @@ PUT     | /comment/{commentId}  			| Update comment by id and passing valid comm
 ```
 DELETE  | /comment/{commentId}  			| Delete comment by id
 ```
-
-
-[FINAL_PPT.pdf](https://github.com/neu-mis-info6150-fall-2022/final-project-electrons/files/10187602/FINAL_PPT.pdf)
 
 
