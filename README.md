@@ -1,11 +1,3 @@
-Link to Video Presentation: https://drive.google.com/file/d/1bsl5wZ20WAohrE8jQAGbCAT3AUvcH29X/view?usp=sharing
-
-TEAM:
-Nethra Viswanathan
-Ruchithra Sathyanarayanan
-Alankrutha Purumandla
-Ridham Sujitbhai Mangukia
-
 Running the application:
 
 * Clone the repository using "git clone "link to repository"
